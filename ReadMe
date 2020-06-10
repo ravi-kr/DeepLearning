@@ -1,5 +1,54 @@
 Deep Learning:
 
+1. Neural network and its working, perceptron neural network.
+2. Activation functions (Threshold, Sigmoid, Relu, Tanh, Softmax)
+3. Backpropagation in ANN
+4. Bias and Gradient Descent
+5. Stochastic Gradient Descent
+6. Mini Batch Gradient Descent
+7. Keras, Tensorflow, Google Colab
+8. Breast Cancer Dataset
+9. Iris Dataset
+10. Regression based neural network
+11. Bias Variance trade-off, Overfitting and Undercutting
+12. K-Fold Cross Validation
+13. Regularization Lasso and Ridge Regression
+14. Dropout
+15. Hyperparameter tuning, GridSearchCV
+16. Gradient Descent with momentum
+17. Adagard Optimizer
+18. AdaDelta and RMSprop optimizer
+19. Adam optimizer
+20. CNN, Feature, Map, Filters
+21. Feature Detector, Feature Map
+22. Softmax and Crossentropy
+23. .flow(X, y)
+24. MNIST CNN
+25. RNN with LSTM
+26. Vanishing and Exploding Gradient
+27. LSTM vs GRU
+28. Spam Vs Ham using LSTM
+29. Iris using LSTM
+30. Google Stock Price using LSTM
+31. Self (Kohonen) Organizing Map
+32. Advanced SOM using K-means clustering
+33. Iris using SOM
+34. Boltzmann Machine, Boltzmann Distribution, Boltzmann Factor
+35. Restricted Boltzmann Machine
+36. Contrastive Divergence and Gibbs Sampling in RBM
+37. Recommendation System using RBM
+38. AutoEncoder
+39. Types of AutoEncoder (Overcomplete, Denoising, Stack sparse, Deep, Undercomplete, Contractive, Convolutional, Variational)
+40. Movie Recommendation System using AutoEncoder
+41. Generative Adversarial Network
+42. DCGAN on CIFAR-10
+43. Agent and Environment
+44. Markov Decision Process
+45. Hidden Markov Process
+46. Bellman Equation and Q Learning
+47. Q Learning using Gym
+48. SARSA using Gym
+
 Supervised Learning
 1. Artificial Neural Network (ANN)
 2. Convolutional Neural Network (CNN)
